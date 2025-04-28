@@ -65,6 +65,11 @@ You should see the Pinterest Clone running!
 
 ---
 
+## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/4e39952c-e363-497c-bd2d-e46ffcae9823)
+
+---
+
 ## 📁 Folder Structure
 
 ```plaintext
