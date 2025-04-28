@@ -108,20 +108,4 @@ Feel free to clone and modify it!
 
 ---
 
-# 🎯 Quick Commands Summary
 
-| Task                  | Command                     |
-|------------------------|------------------------------|
-| Clone repo             | `git clone <repo-url>`       |
-| Install dependencies   | `npm install`                |
-| Start development      | `npm run dev`                |
-
----
-
-# ✅ That's your full `README.md` ready for GitHub!
-
----
-
-Would you also like me to show you a version with **badges**?  
-(Example: React badge, License badge, etc.) — it makes the README even cooler! 🚀  
-Just say if you want!
